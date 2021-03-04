@@ -1,4 +1,9 @@
 # proyecto-Nani
 Proyecto Software 2
 
-Podemos encontrar el codigo base de nuestra aplicacion
+En la carpeta nani encontraremos el proyecto.
+
+
+Video en youtube de nuestra aplicación:
+
+https://www.youtube.com/watch?v=YwpDZOplhYA&t=34s
