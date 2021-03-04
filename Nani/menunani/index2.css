@@ -1,0 +1,80 @@
+    body{
+      background-color: white;
+    }
+    .formulario{
+    max-width: 400px;
+    margin: auto;   
+    }
+/*    .celular{
+    width: 50% !important;
+    margin: 0 auto;
+    min-width: 290px;
+  }*/
+
+
+    .navbar {
+      margin-bottom: 0;
+     
+    }
+   
+    .row.content {
+      margin:center;
+      
+      height: 100%}
+    
+
+    .sidenav {
+      padding-top: 0px;
+      background-color: white;
+      height: 100%;
+     
+
+    }
+    .col-xl-12{
+    background-image: url(imagenes/fondo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ 
+    }
+    .col-md-6{
+    background-image: url(imagenes/fondofull4.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    }
+    .col-lg-6{
+    background-image: url(imagenes/fondofull4.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    }
+    .col-sm-6{
+    background-image: url(imagenes/fondofull4.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+
+    }
+ 
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+  
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
